@@ -1,4 +1,4 @@
-## Hello. 👋
+## Hello. :trollface:
 
 I'm a poor guy that tries to improve world with programming and teach something new.
 
